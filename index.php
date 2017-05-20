@@ -14,5 +14,12 @@
 	</ul>
 </div>
 
+
+
+<div class="setcolor">
+	I Add this div and want to set the color in style.css file.
+
+</div>
+
 </body>
 </html>
