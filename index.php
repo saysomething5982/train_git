@@ -5,7 +5,7 @@
 <link rel="stylesheet" type="text/css" href="asset/style.css">
 </head>
 <body>
-<div class="try">
+<div class="try_git">
 	<ul>
 		<li>First</li>
 		<li>Second</li>
